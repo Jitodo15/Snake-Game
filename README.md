@@ -1,7 +1,8 @@
-# Snake-Game
+# Snake Game Project
+
 
 ## Demo
-<img height="480" src="7bb39f84-1c37-446c-a709-9473ca5b2f28.gif">
+<img src="snake_demo.gif">
 
 ## Description
 This is a classic Snake game implemented in Python using "turtle" module. The game is coded using the PyCharm IDLE. The game allows players to control a snake that grows in length as it consumes food items. The main aim is to grow the snake as long as possible without colliding with the walls or itself.
